@@ -15,7 +15,7 @@
     "require": {
         "php": "^7.3|^8.0",
         "webmozart/assert": "^1.2",
-        "guzzlehttp/guzzle": "^6.3|^7.0.1",
+        "guzzlehttp/guzzle": "^6.3|^7.0",
         "rize/uri-template": "0.3.5"
     },
     "require-dev": {
